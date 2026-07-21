@@ -69,8 +69,8 @@ The asset list can be either a CSV or a JSON file. Set `ASSET_LIST_PATH` in `.en
 
 ```csv
 AssetID,EmailName
-443722,TST_PRM_EML_ii_Chatbooks_Mothers Day
-450578,CRM-7462_PRM_EML_ii_FY26_InktoAIP_Aged_D12
+123456,Mothers_Day_Promo
+789101,Fathers_Day_Promo
 ```
 
 - `AssetID` is the numeric SFMC Content Builder asset ID.
