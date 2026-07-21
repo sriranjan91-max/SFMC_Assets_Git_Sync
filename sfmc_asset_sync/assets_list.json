@@ -1,0 +1,10 @@
+[
+  {
+    "asset_id": 123456,
+    "file_name": "welcome_email.html"
+  },
+  {
+    "asset_id": 234567,
+    "file_name": "promo_email.html"
+  }
+]
